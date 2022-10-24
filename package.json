@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-log-beautify",
+  "version": "0.0.1",
+  "description": "log beautify",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/babel-plugin-log-beautify.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "beautify"
+  ],
+  "author": "yiri.zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/babel-plugin-log-beautify/issues"
+  },
+  "homepage": "https://github.com/bugszhou/babel-plugin-log-beautify#readme"
+}
