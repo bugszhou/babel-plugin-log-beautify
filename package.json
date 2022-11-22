@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-log-beautify",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "log beautify",
   "main": "./lib/index.js",
   "scripts": {
